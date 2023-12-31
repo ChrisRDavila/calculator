@@ -16,7 +16,7 @@
 
 ## Description
 
-This practice with javascript will allow user to enter two numbers and add, subtract, multiply and divide amd return am answer
+This practice with javascript will allow user to enter two numbers and add, subtract, multiply and divide amd return am answer.
 
 ## Setup/Installation Requirements
 
